@@ -1,11 +1,11 @@
 # **Viktor Vujicic**  
-**Fullstack Developer | DeFi & Web3**  
-📧 viktorvujicic1@gmail.com | 💻 [GitHub (Public)](https://github.com/ViktorVujke)  
+**Software Engineer | Fullstack Systems | Web3 & Geospatial**  
+📧 viktorvujicic1@gmail.com | 💻 [GitHub](https://github.com/ViktorVujke)   [GitHub](https://github.com/VikTheTrick) 
 
 ---
 
 ## **Summary**  
-Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastructures**. Experienced in building production-ready financial applications, **bridging Bitcoin & Ethereum**, and designing **interactive blockchain experiences**. Proficient in **Decentralised systems, React, TypeScript, smart contract interactions**. Passionate about **DeFi security, capital efficiency, and decentralized systems**.  
+Fullstack **Software Engineer** with hands-on experience in Web3, geospatial systems, and cloud infrastructure. Interned at **Microsoft Maps**, contributing to geospatial tooling and data workflows. Most recently worked on the R&D team at **Decenter**, building production-grade decentralized applications and real-time financial dashboards. Comfortable across the stack and focused on performance, clean code, and solving real-world engineering challenges.
 
 ---
 
@@ -13,58 +13,44 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Wagmi, Viem  
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, C#  
 - **DeFi & Web3:** Ethereum, Bitcoin, Smart Contracts, Bridges, ethers.js, Solidity  
-- **Infrastructure & Security:** CI/CD, Testing (Cypress), Docker  
-- **DeFi Math & Analytics:** APY calculations, lending/borrowing dynamics, liquidation mechanisms, consensus mechanisms 
-- **AI & Data Analytics:** Python, Machine Learning, AI-driven data processing  
+- **Infrastructure & Security:** CI/CD, Docker, Linux/Unix, secure cross-chain communication  
+- **Data & Analytics:** Python, Machine Learning, Geospatial processing, APY & DeFi math  
 
 ---
 
 ## **Experience**  
 
-### **Fullstack RnD Engineer at Decenter (DeFi Saver, https://defisaver.com) (https://decenter.com) (1 year) | DeFi & Web3 Projects** *(2024 - 2025)*  
-- Developed **DEX aggregators** and **trustless bridge interfaces**, optimizing **Web3 interactions & performance**.
-- Built **custom DeFi dashboards** showcasing **liquidity pools, staking, and lending analytics**.
-- Designed **real-time token swap UIs** with **wagmi, ethers.js, and Next.js optimizations**.
-### **Gazelle ETH-BTC Bridge** *(2024)*  
+### **Fullstack R&D Engineer – Decenter (DeFi Saver, https://defisaver.com)** *(2024 – 2025)*  
+- Developed **DEX aggregators**, **token swap UIs**, and **trustless bridge interfaces** using Wagmi, ethers.js, and Next.js.  
+- Built DeFi dashboards tracking liquidity, staking, and lending performance.  
+- Collaborated across smart contract and frontend teams to deliver responsive, secure blockchain interfaces.  
+- Projects from this period were awarded **1st Place at ETHGlobal Brussels** and **ETH Belgrade 2024**:
+  - **Blinkz** – Blockchain-powered interactive cards for X.com.  
+  - **Gazelle** – A trustless Bitcoin-Ethereum bridge leveraging Eigen Layer.
 
-### **Blinkz (Ethereum Interactive Cards)** *(2024)*  
-🏆 **1st Place Winner at ETHGlobal Brussels 2024**  
-🔗 [ETHGlobal Showcase](https://ethglobal.com/showcase/ephi-1txc9)  
-- Created **interactive blockchain-powered cards** for **X.com**, integrating **on-chain engagement & smart contract actions**.
-- Developed a **highly optimized UI/UX** with **real-time blockchain updates**.
-- Implemented **Ethereum-based programmable actions**, enabling users to trigger transactions dynamically.
+### **Software Engineering Intern – Microsoft Maps & Geospatial** *(Summer 2023)*  
+- Built internal C# tools to visualize and validate map data.  
+- Worked on improving geospatial annotation workflows for large-scale data operations.  
+- Collaborated with PMs and senior engineers on QA tools for the mapping pipeline.
 
-🏆 **1st Place Winner at ETH Belgrade 2024**  
-🔗 [GitHub Repo](https://github.com/ViktorVujke/ETH-BTC_Bridge_AVS)  
-- Developed a **trustless Bitcoin-Ethereum bridge** leveraging Eigen Layer.
-- Built a **React-based UI** for seamless BTC <-> ETH transfers, ensuring **security & minimal dependencies**.
-- Engineered a **decentralized verification mechanism** to achieve **cross-chain consensus**.
-
-### **Tribal Camping** *(2023 - 2025)*  
+### **Founder – Tribal Camping** *(2023 – 2025)*  
 🔗 [Tribal Camping](https://tribalcamping.com)  
-- Built an **AI-driven mapping system** to **automate campsite discovery** and **feature tagging**.
-- Developed a **React + Next.js frontend** with a **sleek, responsive UI & real-time data updates**.
-- Integrated **interactive geospatial components** for a **seamless user experience**.
-
-### **TextLink - Decentralized SMS Gateway** *(2024 - 2025)*  
-🔗 [TextLink](https://textlink.io)  
-- Created a **decentralized SMS gateway** enabling businesses to **leverage carrier plans for cost-effective messaging**.
-- Developed a **high-performance, scalable infra** with **secure, encrypted messaging functionality**.
-- Integrated **alternative payment options** to bypass traditional SMS provider restrictions.
+- Created an **AI-powered campsite search platform** using geospatial clustering and ML-powered feature tagging.  
+- Built a responsive frontend in React + Next.js and backend APIs for map queries and search.  
+- Integrated interactive map features and real-time data handling.
 
 ---
 
 ## **Notable Projects**  
-- **Gazelle ETH-BTC Bridge** – Secure, trustless Bitcoin-Ethereum bridge UI.  
-- **Blinkz** – Blockchain-powered interactive cards with smart contract actions.  
-- **Tribal Camping AI** – AI-powered **campsite discovery & interactive mapping system**.  
-- **TextLink** – Decentralized **SMS gateway for global communication**.  
-
+- **Gazelle ETH-BTC Bridge** – Trustless Bitcoin-Ethereum bridge with cross-chain consensus.  
+- **Blinkz** – Ethereum-integrated social media cards with real-time smart contract execution.  
+- **Tribal Camping AI** – AI-based geospatial campsite discovery engine.  
+- **TextLink** – Self-hosted SMS gateway for high-volume, low-cost messaging over Android + carrier networks.
 
 ---
 
 ## **Education**  
-**BSc in Computer Science** | RAF Belgrade 
+**BSc in Computer Science** | RAF Belgrade  
 
 ---
 
