@@ -1,11 +1,11 @@
 # **Viktor Vujicic**  
 **Fullstack Developer | DeFi & Web3**  
-📧 viktorvujicic1@gmail.com | 💻 [GitHub (Public)](https://github.com/ViktorVujke) | 🛠 [GitHub (Private & Closed-Source Projects)](https://github.com/VikTheTrick) 
+📧 viktorvujicic1@gmail.com | 💻 [GitHub (Public)](https://github.com/ViktorVujke)  
 
 ---
 
 ## **Summary**  
-Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastructures**. Experienced in building production-ready financial applications, **bridging Bitcoin & Ethereum**, and designing **interactive blockchain-powered experiences**. Proficient in **React, TypeScript, smart contract interactions, and UX optimization**. Passionate about **DeFi security, capital efficiency, and decentralized systems**.  
+Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastructures**. Experienced in building production-ready financial applications, **bridging Bitcoin & Ethereum**, and designing **interactive blockchain experiences**. Proficient in **Decentralised systems, React, TypeScript, smart contract interactions**. Passionate about **DeFi security, capital efficiency, and decentralized systems**.  
 
 ---
 
@@ -49,7 +49,7 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 ### **TextLink - Decentralized SMS Gateway** *(2024 - 2025)*  
 🔗 [TextLink](https://textlink.io)  
 - Created a **decentralized SMS gateway** enabling businesses to **leverage carrier plans for cost-effective messaging**.
-- Developed a **high-performance frontend** with **secure, encrypted messaging functionality**.
+- Developed a **high-performance, scalable infra** with **secure, encrypted messaging functionality**.
 - Integrated **alternative payment options** to bypass traditional SMS provider restrictions.
 
 ---
