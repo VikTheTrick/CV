@@ -21,12 +21,11 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 
 ## **Experience**  
 
+### **Fullstack RnD Engineer at Decenter (DeFi Saver, https://defisaver.com) (https://decenter.com) (1 year) | DeFi & Web3 Projects** *(2024 - 2025)*  
+- Developed **DEX aggregators** and **trustless bridge interfaces**, optimizing **Web3 interactions & performance**.
+- Built **custom DeFi dashboards** showcasing **liquidity pools, staking, and lending analytics**.
+- Designed **real-time token swap UIs** with **wagmi, ethers.js, and Next.js optimizations**.
 ### **Gazelle ETH-BTC Bridge** *(2024)*  
-🏆 **1st Place Winner at ETH Belgrade 2024**  
-🔗 [GitHub Repo](https://github.com/ViktorVujke/ETH-BTC_Bridge_AVS)  
-- Developed a **trustless Bitcoin-Ethereum bridge** leveraging Eigen Layer.
-- Built a **React-based UI** for seamless BTC <-> ETH transfers, ensuring **security & minimal dependencies**.
-- Engineered a **decentralized verification mechanism** to achieve **cross-chain consensus**.
 
 ### **Blinkz (Ethereum Interactive Cards)** *(2024)*  
 🏆 **1st Place Winner at ETHGlobal Brussels 2024**  
@@ -35,22 +34,23 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - Developed a **highly optimized UI/UX** with **real-time blockchain updates**.
 - Implemented **Ethereum-based programmable actions**, enabling users to trigger transactions dynamically.
 
-### **Tribal Camping** *(2023 - Present)*  
+🏆 **1st Place Winner at ETH Belgrade 2024**  
+🔗 [GitHub Repo](https://github.com/ViktorVujke/ETH-BTC_Bridge_AVS)  
+- Developed a **trustless Bitcoin-Ethereum bridge** leveraging Eigen Layer.
+- Built a **React-based UI** for seamless BTC <-> ETH transfers, ensuring **security & minimal dependencies**.
+- Engineered a **decentralized verification mechanism** to achieve **cross-chain consensus**.
+
+### **Tribal Camping** *(2023 - 2025)*  
 🔗 [Tribal Camping](https://tribalcamping.com)  
 - Built an **AI-driven mapping system** to **automate campsite discovery** and **feature tagging**.
 - Developed a **React + Next.js frontend** with a **sleek, responsive UI & real-time data updates**.
 - Integrated **interactive geospatial components** for a **seamless user experience**.
 
-### **TextLink - Decentralized SMS Gateway** *(2024 - Present)*  
+### **TextLink - Decentralized SMS Gateway** *(2024 - 2025)*  
 🔗 [TextLink](https://textlink.io)  
 - Created a **decentralized SMS gateway** enabling businesses to **leverage carrier plans for cost-effective messaging**.
 - Developed a **high-performance frontend** with **secure, encrypted messaging functionality**.
 - Integrated **alternative payment options** to bypass traditional SMS provider restrictions.
-
-### **Fullstack RnD Engineer at Decenter (DeFi Saver, https://defisaver.com) (https://decenter.com) (1 year) | DeFi & Web3 Projects** *(2024 - 2025)*  
-- Developed **DEX aggregators** and **trustless bridge interfaces**, optimizing **Web3 interactions & performance**.
-- Built **custom DeFi dashboards** showcasing **liquidity pools, staking, and lending analytics**.
-- Designed **real-time token swap UIs** with **wagmi, ethers.js, and Next.js optimizations**.
 
 ---
 
