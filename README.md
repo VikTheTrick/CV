@@ -11,7 +11,7 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 
 ## **Key Skills**  
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Wagmi, Viem  
-- **Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, C#  
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB, GoLang, Firebase, C#, Java  
 - **DeFi & Web3:** Ethereum, Bitcoin, Smart Contracts, Bridges, ethers.js, Solidity  
 - **Infrastructure & Security:** CI/CD, Testing (Cypress), Docker  
 - **DeFi Math & Analytics:** APY calculations, lending/borrowing dynamics, liquidation mechanisms, consensus mechanisms 
