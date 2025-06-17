@@ -25,7 +25,20 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - Developed **DEX aggregators** and **trustless bridge interfaces**, optimizing **Web3 interactions & performance**.
 - Built **custom DeFi dashboards** showcasing **liquidity pools, staking, and lending analytics**.
 - Designed **real-time token swap UIs** with **wagmi, ethers.js, and Next.js optimizations**.
+ 
 ### **Gazelle ETH-BTC Bridge** *(2024)*  
+🏆 1st Place - ETH Belgrade 2024
+🔗 GitHub Repo
+
+Built a trustless Bitcoin ↔ Ethereum bridge leveraging Eigen Layer AVS and decentralized oracles.
+
+Designed a lightweight React interface for initiating and tracking cross-chain transfers with real-time state feedback.
+
+Implemented server nodes that independently verify Bitcoin state and reach consensus to trigger Ethereum-side mint/burn logic.
+
+Engineered a modular architecture for validator coordination, ensuring security, resilience, and minimum external dependencies.
+
+Focused on capital efficiency and transparency, using on-chain proofs and event-driven design.
 
 ### **Blinkz (Ethereum Interactive Cards)** *(2024)*  
 🏆 **1st Place Winner at ETHGlobal Brussels 2024**  
