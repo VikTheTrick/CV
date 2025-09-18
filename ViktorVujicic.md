@@ -12,7 +12,7 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 ## **Key Skills**  
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Wagmi, Viem  
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB, Firebase, C#  
-- **DeFi & Web3:** Ethereum, Bitcoin, Smart Contracts, Bridges, ethers.js, Solidity  
+- **DeFi & Web3:** Ethereum, Bitcoin, Smart Contracts, Bridges, ethers.js, web3.js, Solidity  
 - **Infrastructure & Security:** CI/CD, Testing (Cypress), Docker  
 - **DeFi Math & Analytics:** APY calculations, lending/borrowing dynamics, liquidation mechanisms, consensus mechanisms 
 - **AI & Data Analytics:** Python, Machine Learning, AI-driven data processing  
@@ -70,3 +70,4 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 
 ## **Contact**  
 📧 viktorvujicic1@gmail.com | 💻 [GitHub](https://github.com/ViktorVujke) | 🔗 [GitHub](https://github.com/VikTheTrick), lot's of projects are closed source
+
