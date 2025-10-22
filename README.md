@@ -25,7 +25,12 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - Developed **DEX aggregators** and **trustless bridge interfaces**, optimizing **Web3 interactions & performance**.
 - Built **custom DeFi dashboards** showcasing **liquidity pools, staking, and lending analytics**.
 - Designed **real-time token swap UIs** with **wagmi, ethers.js, and Next.js optimizations**.
- 
+  
+### **Maps & GeoSpatial @Microsoft  (3+3 months) | FullStack** *(2022)*  
+- Improved the validation system for grading Bing maps eddits.
+- Created a React.js app + Node.js server for validating, later created a Java plugin for JOSM with further simplified the process.
+- This went into production and is still being used to this day.
+
 ### **Gazelle ETH-BTC Bridge** *(2024)*  
 🏆 **1st Place - ETH Belgrade 2024**  
 🔗 [GitHub Repo](https://github.com/ViktorVujke/ETH-BTC_Bridge_AVS)
