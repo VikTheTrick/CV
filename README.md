@@ -58,25 +58,16 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - Engineered a **decentralized verification mechanism** to achieve **cross-chain consensus**.
 
 ### **Tribal Camping** *(2023 - 2025)*  
-🔗 [Tribal Camping](https://tribalcamping.com)  
+🔗 [Tribal Camping](https://tribalcamping.co)  
 - Built an **AI-driven mapping system** to **automate campsite discovery** and **feature tagging**.
 - Developed a **React + Next.js frontend** with a **sleek, responsive UI & real-time data updates**.
 - Integrated **interactive geospatial components** for a **seamless user experience**.
 
 ### **TextLink - Decentralized SMS Gateway** *(2024 - 2025)*  
-🔗 [TextLink](https://textlink.io)  
+🔗 [TextLink](https://textlinksms.com)  
 - Created a **decentralized SMS gateway** enabling businesses to **leverage carrier plans for cost-effective messaging**.
 - Developed a **high-performance, scalable infra** with **secure, encrypted messaging functionality**.
 - Integrated **alternative payment options** to bypass traditional SMS provider restrictions.
-
----
-
-## **Notable Projects**  
-- **Gazelle ETH-BTC Bridge** – Secure, trustless Bitcoin-Ethereum bridge UI.  
-- **Blinkz** – Blockchain-powered interactive cards with smart contract actions.  
-- **Tribal Camping AI** – AI-powered **campsite discovery & interactive mapping system**.  
-- **TextLink** – Decentralized **SMS gateway for global communication**.  
-
 
 ---
 
