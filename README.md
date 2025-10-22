@@ -31,6 +31,8 @@ Fullstack **Developer** specializing in **DeFi, Web3, and decentralized infrastr
 - Created a React.js app + Node.js server for validating, later created a Java plugin for JOSM with further simplified the process.
 - This went into production and is still being used to this day.
 
+## **Notable Projects**  
+
 ### **Gazelle ETH-BTC Bridge** *(2024)*  
 🏆 **1st Place - ETH Belgrade 2024**  
 🔗 [GitHub Repo](https://github.com/ViktorVujke/ETH-BTC_Bridge_AVS)
